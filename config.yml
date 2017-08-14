@@ -1,0 +1,12 @@
+logging:
+  level: INFO
+  loggers:
+    com.juniorm: DEBUG
+
+server:
+  applicationConnectors:
+  - type: http 
+    port: 9000
+  adminConnectors:
+  - type: http
+    port: 9001
