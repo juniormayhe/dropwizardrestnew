@@ -26,4 +26,4 @@ server:
 Health Check
 ---
 
-To see your applications health enter url `http://localhost:8081/healthcheck`
+To see your applications health enter url `http://localhost:9001/healthcheck`
